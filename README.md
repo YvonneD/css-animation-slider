@@ -1,8 +1,10 @@
 # css-animation-slider
 Pure CSS slider without JS.  
-
+Leared from Online tutorials
 
 ![Alt Text](https://media.giphy.com/media/13eeortMQSmDu54O9E/giphy.gif)
+
+
 Images from Unsplash
 
 
